@@ -2,7 +2,7 @@
 
 # Python lists 
 
-# initialization and declaration of new list(Note: list are enclosed in close brackets)
+# initialization and declaration of new list(Note: list are enclosed in square brackets)
 new_list=['this','is','new','list']
 
 print(new_list) 
