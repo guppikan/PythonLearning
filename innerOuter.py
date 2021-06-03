@@ -1,6 +1,6 @@
 # Author : Guru prasad Raju
 '''This program will create inner and outer function 
- within functionto avoid loop'''
+ within function avoid loop'''
 
 # creating a function
 
